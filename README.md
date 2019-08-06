@@ -1,0 +1,2 @@
+# rabbitmq
+DirectExchange demo
